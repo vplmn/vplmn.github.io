@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "6fc4c234c0751ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d07a6a3117f665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd85714755ef5784",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "55b367c3ab15cc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-17-welcome-to-jekyll.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77de3384af95c1f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "25abee047d33ae9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0b71c9ab323f62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c5b33a39f179735",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1d6400f6e4938ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d8502b534a82fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d817aa9d4c3f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0005081405c93699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-04-17-welcome-to-jekyll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c660ad051e180e09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-04-17-welcome-to-jekyll.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87a26c1aa6d72c42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7e83fe27a47698f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-04-17-welcome-to-jekyll.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55b367c3ab15cc27",
+  "lastOpenFiles": [
+    "about.md",
+    "_posts/2023-04-17-welcome-to-jekyll.md",
+    "index.md",
+    "wadsd.md",
+    "Untitled"
+  ]
+}
